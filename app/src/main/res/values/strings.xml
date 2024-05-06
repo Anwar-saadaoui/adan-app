@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">مواعيد الصلاة مع الاذان-adan</string>
+    <string name="next_prayer_time">Next prayer Time:</string>
+    <string name="asr">Asr</string>
+    <string name="maghreb">Maghreb</string>
+    <string name="isha">Isha</string>
+    <string name="fajr">Fajr :</string>
+</resources>
